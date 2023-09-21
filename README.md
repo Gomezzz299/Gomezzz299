@@ -1,6 +1,6 @@
-- 👋 Soy Alejandro
-- 👀 Tengo interés en GIS, Desarrollo, IA y Bases de datos
-- 🌱 Actualmente estudio Ingeniería de las Tecnologías de la Información Geoespacial
+- 👋 Mi nombre es Alejandro
+- 👀 Tengo interés en Inteligencia Artificial y Big-Data
+- 🌱 Estudié el grado de Ingeniería de las Tecnologías de la Información Geoespacial, actualmente estudio el máster universitario de Inteligencia Artificial
 - 💞️ Me gustaría colaborar en próximos proyectos
 - 📫 Para ponerse en contacto conmigo: alejandro.gs9129@gmail.com
 
